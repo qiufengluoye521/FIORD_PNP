@@ -1,0 +1,32 @@
+
+
+
+
+Breakpoint=D:/design/project/openPNP/git/feeder/fiordFeeder/firmware/PCB_GallopFeeder/PeripheralDriver/motor/N20_Motor_02.c:150:5, State=BP_STATE_DISABLED
+OpenDocument="main.c", FilePath="D:/design/project/openPNP/git/feeder/fiordFeeder/firmware/PCB_GallopFeeder/Core/Src/main.c", Line=56
+OpenDocument="RS485_01.c", FilePath="D:/design/project/openPNP/git/feeder/fiordFeeder/firmware/PCB_GallopFeeder/PeripheralDriver/communication/RS485_01.c", Line=113
+OpenDocument="stm32g0xx_hal_uart.h", FilePath="D:/design/project/openPNP/git/feeder/fiordFeeder/firmware/PCB_GallopFeeder/Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart.h", Line=1619
+OpenDocument="stm32g0xx_hal_uart.c", FilePath="D:/design/project/openPNP/git/feeder/fiordFeeder/firmware/PCB_GallopFeeder/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c", Line=2629
+OpenDocument="stm32g0xx_it.c", FilePath="D:/design/project/openPNP/git/feeder/fiordFeeder/firmware/PCB_GallopFeeder/Core/Src/stm32g0xx_it.c", Line=0
+OpenDocument="Motor_Manager.c", FilePath="D:/design/project/openPNP/git/feeder/fiordFeeder/firmware/PCB_GallopFeeder/PeripheralDriver/motor/Motor_Manager.c", Line=91
+OpenDocument="UserProtocolAnalysis.c", FilePath="D:/design/project/openPNP/git/feeder/fiordFeeder/firmware/PCB_GallopFeeder/App/UserProtocolAnalysis.c", Line=61
+OpenDocument="N20_Motor_02.c", FilePath="D:/design/project/openPNP/git/feeder/fiordFeeder/firmware/PCB_GallopFeeder/PeripheralDriver/motor/N20_Motor_02.c", Line=200
+OpenDocument="startup_stm32g030c8tx.s", FilePath="D:/design/project/openPNP/git/feeder/fiordFeeder/firmware/PCB_GallopFeeder/Core/Startup/startup_stm32g030c8tx.s", Line=50
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=2, w=223, h=270, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=223, h=227, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=437, h=227, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x8000F7F0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=226, h=664, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Find Results", DockArea=RIGHT, x=0, y=1, w=223, h=165, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=762, h=227, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[959;100;100;100;231]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[100;118;259]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;372]
+WatchedExpression="m_uart_array_index", DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="m_uart_array_index", DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="m_uart_rx_array", DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="m_uart_rx_buff[", DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="m_uart_rx_buff[0]", DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1

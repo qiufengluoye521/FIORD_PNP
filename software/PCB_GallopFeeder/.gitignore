@@ -1,0 +1,14 @@
+*.o
+*.crf
+*.dep
+*.axf
+*.htm
+*.hex
+*.map
+*.Administrator
+*.bin
+*.zip
+*.launch
+.TMP
+Debug/
+.settings/language.settings.xml

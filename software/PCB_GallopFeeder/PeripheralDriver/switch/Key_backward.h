@@ -1,0 +1,9 @@
+#ifndef __KEY_BACKWARD_H
+#define __KEY_BACKWARD_H
+
+#include "stdint.h"
+#include "stm32g0xx_hal.h"
+
+int8_t Key_backward_init(void);
+
+#endif //__KEY_BACKWARD_H
